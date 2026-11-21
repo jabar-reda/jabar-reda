@@ -187,7 +187,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 ## <img src="assets/icons/fa/chart-simple.svg" height="22" alt=""> Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jabar-reda&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jabar-reda&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabar-reda&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
 
