@@ -41,7 +41,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/adkar">🌙 Adhkar</a>
+        <a href="https://github.com/jabar-reda/adkar"><img src="assets/icons/moon.svg" width="20" height="20" alt=""> Adhkar</a>
       </h3>
       <p><strong>Morning &amp; evening adhkar tracker</strong> — counters, streaks, monthly calendar</p>
       <p>
@@ -63,7 +63,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/quran-app">📖 Noor — Khatma Mushaf</a>
+        <a href="https://github.com/jabar-reda/quran-app"><img src="assets/icons/book.svg" width="20" height="20" alt=""> Noor — Khatma Mushaf</a>
       </h3>
       <p><strong>Finish the Quran verse by verse</strong> — local-only progress</p>
       <p>
@@ -88,7 +88,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/daftar">📝 Daftar</a>
+        <a href="https://github.com/jabar-reda/daftar"><img src="assets/icons/notebook.svg" width="20" height="20" alt=""> Daftar</a>
       </h3>
       <p><strong>A quiet Arabic notes notebook</strong> — offline, no account</p>
       <p>
@@ -110,7 +110,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/vlc-web">🎬 VLC Web</a>
+        <a href="https://github.com/jabar-reda/vlc-web"><img src="assets/icons/play.svg" width="20" height="20" alt=""> VLC Web</a>
       </h3>
       <p><strong>A minimalist web media player</strong> — zero dependencies</p>
       <p>
@@ -135,7 +135,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/markdown-viewer-extension">📄 Markdown Viewer</a>
+        <a href="https://github.com/jabar-reda/markdown-viewer-extension"><img src="assets/icons/file-text.svg" width="20" height="20" alt=""> Markdown Viewer</a>
       </h3>
       <p><strong>Read local Markdown in Chrome</strong> — fully offline</p>
       <p>
@@ -154,7 +154,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/jabar-reda/pinterestui-plus">🎨 Pinterest UI Plus</a>
+        <a href="https://github.com/jabar-reda/pinterestui-plus"><img src="assets/icons/layout.svg" width="20" height="20" alt=""> Pinterest UI Plus</a>
       </h3>
       <p><strong>iOS-style Pinterest on the web</strong> — dark mode &amp; glass header</p>
       <p>
@@ -179,8 +179,8 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 
 **More projects**
 
-- 🔤 **[DeepSeek RTL Fix](https://github.com/jabar-reda/deepseek-rtl-fix)** — a Tampermonkey script that sets Arabic text in DeepSeek to RTL instantly, without flicker, and keeps code blocks LTR.
-- 🔢 **[B2D](https://github.com/jabar-reda/B2D)** — a minimal binary ↔ decimal converter with arbitrary-precision `BigInt` and live conversion as you type.
+- <img src="assets/icons/swap.svg" width="16" height="16" alt=""> **[DeepSeek RTL Fix](https://github.com/jabar-reda/deepseek-rtl-fix)** — a Tampermonkey script that sets Arabic text in DeepSeek to RTL instantly, without flicker, and keeps code blocks LTR.
+- <img src="assets/icons/calculator.svg" width="16" height="16" alt=""> **[B2D](https://github.com/jabar-reda/B2D)** — a minimal binary ↔ decimal converter with arbitrary-precision `BigInt` and live conversion as you type.
 
 ---
 
