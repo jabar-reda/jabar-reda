@@ -35,6 +35,14 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 
 ---
 
+## <img src="assets/icons/fa/screwdriver-wrench.svg" height="22" alt=""> Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,md,svg,git,github,githubactions,vscode,windows,powershell" alt="Tech Stack">
+</p>
+
+---
+
 ## <img src="assets/icons/fa/rocket.svg" height="22" alt=""> Featured Projects
 
 <table>
@@ -189,14 +197,6 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jabar-reda&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabar-reda&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
-
----
-
-## <img src="assets/icons/fa/screwdriver-wrench.svg" height="22" alt=""> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,git,github,vscode,chrome" alt="Tech Stack">
 </p>
 
 ---
