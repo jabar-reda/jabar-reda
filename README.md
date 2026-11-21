@@ -10,8 +10,8 @@
 <a href="https://greasyfork.org/en/users/1611157-reda-jabar">
   <img height="32" src="https://img.shields.io/badge/GreasyFork-Scripts-960000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="GreasyFork"></a>
 
-<a href="https://x.com/JabarReda2012">
-  <img height="32" src="https://img.shields.io/badge/X-%40JabarReda2012-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://x.com/Jabar_Reda">
+  <img height="32" src="https://img.shields.io/badge/X-%40Jabar_Reda-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
 <a href="https://instagram.com/jbr.rda">
   <img height="32" src="https://img.shields.io/badge/Instagram-jbr.rda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -38,7 +38,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 ## <img src="assets/icons/fa/screwdriver-wrench.svg" height="22" alt=""> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,devto,obsidian,sublime,gmail,vim,py,vscode,nodejs,windows,powershell,md" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,md,git,nodejs,vscode,windows,powershell" alt="Tech Stack">
 </p>
 
 ---
@@ -216,7 +216,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 
 * GitHub → [github.com/jabar-reda](https://github.com/jabar-reda)
 * GreasyFork → [greasyfork.org/en/users/1611157-reda-jabar](https://greasyfork.org/en/users/1611157-reda-jabar)
-* X → [x.com/JabarReda2012](https://x.com/JabarReda2012)
+* X → [x.com/Jabar_Reda](https://x.com/Jabar_Reda)
 * Instagram → [instagram.com/jbr.rda](https://instagram.com/jbr.rda)
 
 ---
