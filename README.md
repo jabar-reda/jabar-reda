@@ -38,7 +38,7 @@ Beyond the browser, I'm interested in Python CLI tools, privacy, and the idea th
 ## <img src="assets/icons/fa/screwdriver-wrench.svg" height="22" alt=""> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,md,svg,git,github,githubactions,vscode,windows,powershell" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,md,svg,git,github,githubactions,vscode,chrome,windows,powershell" alt="Tech Stack">
 </p>
 
 ---
